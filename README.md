@@ -17,6 +17,14 @@ All assignments leverage the package keras with tensorflow backend.
 
 Another uncommon package that might need to be installed is PrettyTable to render the tables used in these assignments.
 
+## File structure
+
+All code files can be found in the 'code' folder. Jupyter notebooks were used for all assignments.
+
+Relevant data can be found in the 'data' folder.
+
+Assignment summaries can be found in the 'output/reports' folder.
+
 ## Limitations
 
 There are some limitations in storing the data that is used in some assignments.
